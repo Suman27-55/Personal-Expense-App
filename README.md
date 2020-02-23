@@ -1,6 +1,6 @@
 # point_3
 
-This project uses the basic knowledge of flutter and dart.
+This repository contains the codes of a personal expense app.
 Feel free to go through the code and have fun!
 
 ## Getting Started
