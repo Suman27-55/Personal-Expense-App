@@ -1,6 +1,7 @@
 # point_3
 
-A new Flutter project.
+This project uses the basic knowledge of flutter and dart.
+Feel free to go through the code and have fun!
 
 ## Getting Started
 
